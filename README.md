@@ -1,6 +1,6 @@
 # ZnoteACC PayPal API
 
-A lightweight Flask-based PayPal payment integration for [Znote AAC 2.0](https://github.com/Znote/ZnoteAAC), designed to work with Nginx.  
+A lightweight Flask-based PayPal payment integration for [Znote AAC 2.0](https://github.com/Znote/ZnoteAAC/tree/v2), designed to work with Nginx.  
 Handles payment confirmation, IPN verification, and database updates for account points.
 
 ---
